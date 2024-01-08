@@ -21,7 +21,7 @@ def display_formatted_text(input_text):
         input_text : String that needs to be formatted
 
         Return:
-        input_text : Formatted text
+        formatted_text : Formatted text
     """
     formatted_text = '{:^50}'.format(input_text)
     return formatted_text
