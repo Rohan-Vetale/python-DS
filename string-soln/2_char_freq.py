@@ -16,15 +16,12 @@
 def count_character_frequency(input_string):
     """
         Description:
-
         Returns character frequency from a given string
 
         Parameter:
-
         input_string : String that needs to be analyzed for each character frequency
 
         Return:
-
         char_frequency : Returns character frequency from a given string
     """
     #created a dict to store char as key and freq as their value

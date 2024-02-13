@@ -15,11 +15,9 @@
 def add_ing(input_str):
     """
         Description:
-
         Function to add ing or ly to a given input string
 
         Parameter:
-
         input_str : String that user has given to add suffixes 'ing' or 'ly'
         
         Return:

@@ -14,17 +14,14 @@
 
 def replace_char(input_str):
     """
-    Description:
+        Description:
+        To replace all char from first char except first char from a given string
 
-    To replace all char from first char except first char from a given string
+        Parameter:
+        input_str : String that needs to be replaced for each character frequency
 
-    Parameter:
-
-    input_str : String that needs to be replaced for each character frequency
-
-    Return:
-
-    converted_str : Returns replaced string according to the given condition
+        Return:
+        converted_str : Returns replaced string according to the given condition
     
     """
     to_replace = input_str[0]
